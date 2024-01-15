@@ -3,16 +3,18 @@
 ## Overview
 Business Insights 360 is a comprehensive Power BI dashboard designed to empower AtliQ Hardware with actionable insights across Finance, Sales, Marketing, and Supply Chain. This repository houses the project files and documentation.
 
-## Features
-**Finance View:** Detailed financial analysis, including revenue, expenses, and profit margins.
+## Key Insights:
 
-**Sales View:** Insights into product and customer performance.
+**Finance View:** Analyzed crucial KPI indicators such as Net Sales, Gross Margin %, and Net Profit %. Created a comprehensive P & L Statement with YOY growth.
 
-**Marketing View:** Analytics to enhance marketing strategy.
+**Sales View:** Explored Customer Performance based on Net Sales and Gross Margin.
 
-**Supply Chain View:** Optimization metrics for efficient supply chain management.
+**Marketing View:** Enhanced Marketing insights with segment performance and Net Profit metrics.
 
-**Executive View:** Metrics critical for top-level decision-makers.
+**Supply Chain View:** Surveyed the variance of Actual Sales and Forecast accuracy.
+
+**Executive View:** Examined Yearly Trends by Revenue, GM %, NP % & Market Share %. Listed the TOP 5 Customers & Products by Revenue Contribution.
+
 
 ## Live Dashboard
 Explore the live dashboard [Project Link](https://app.powerbi.com/view?r=eyJrIjoiMjNhODQ3YjUtYWRjZS00MWU3LTlhZjctYjBhNzkxZTNkYTVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
@@ -22,5 +24,5 @@ The dashboard seamlessly collects and utilizes data from two primary sources:
 
 **Excel/CSV Files**: Targets, Market Share data, and related information are sourced from Excel/CSV files.
 
-**MySQL Database**: Facts and Dimensions for all departments are retrieved from a MySQL database.
+**MySQL Database**: Facts and Dimensions data are retrieved from a MySQL database.
 
