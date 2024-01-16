@@ -1,7 +1,7 @@
 # BUSINESS_INSIGHTS_360 POWER BI PROJECT
 
 ## Overview
-Business Insights 360 is a comprehensive Power BI dashboard designed to empower AtliQ Hardware with actionable insights across Finance, Sales, Marketing, and Supply Chain. This repository houses the project files and documentation.
+Business Insights 360 is a Power BI dashboard designed to empower AtliQ Hardware with actionable insights across Finance, Sales, Marketing, and Supply Chain.
 
 ## Key Insights:
 
@@ -17,8 +17,7 @@ Business Insights 360 is a comprehensive Power BI dashboard designed to empower 
 
 
 ## Live Dashboard
-Explore the live dashboard [Project Link](https://app.powerbi.com/view?r=eyJrIjoiMjNhODQ3YjUtYWRjZS00MWU3LTlhZjctYjBhNzkxZTNkYTVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
+Explore the live dashboard [Project Link](https://app.powerbi.com/view?r=eyJrIjoiYTIyYzBjMTktODkwZi00OTM2LWI1NTYtMzA0MDI2YjhhNDQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## Data Sources
 The dashboard seamlessly collects and utilizes data from two primary sources:
 
